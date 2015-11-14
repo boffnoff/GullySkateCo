@@ -1,3 +1,4 @@
+SOCIAL MEDIA BUTTONS:
 http://codepen.io/oknoblich/pen/noewy
 
 bit.ly/1GpeW2X
@@ -6,3 +7,26 @@ bit.ly/1GpeW2X
 user: bensymons69@hotmail.com
 pass: password1234
 
+SSL CERTIFICATE - COSTS A LOT
+PAYPAL BUSINESS ACCOUNT
+
+
+http://getbootstrap.com/components/#thumbnails-custom-content for clothing items (needs paypal button link though)
+
+
+TEXT ON <DIV> HOVER:
+http://codepen.io/pcridesagain/pen/gBrla
+http://tympanus.net/Tutorials/OriginalHoverEffects/
+http://codepen.io/andyunleash/pen/yGdDi?editors=110
+
+ANIMATIONS:
+https://daneden.github.io/animate.css/
+
+startuploan
+
+
+
+
+http://tympanus.net/Tutorials/DraggableImageBoxesGrid/
+http://tympanus.net/Development/WaveDisplayEffect/
+http://tympanus.net/codrops/2014/08/05/page-preloading-effect/
