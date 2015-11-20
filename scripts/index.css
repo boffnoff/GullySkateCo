@@ -80,11 +80,12 @@
 /* END OF SOCIAL MEDIA FOOTER WRAPPER */
 
 body {
-    background-color: #111;
+    background-color: #fff;
+    color: black;
 }
 
 p, h1, ul, li {
-    color: white;
+    color: black;
 }
 
 a:visited {
@@ -125,7 +126,8 @@ footer {
 }
 
 .custom-menu-wrapper {
-    background-color: #111;
+    /*background-color: #111; */
+    color: black;
     margin-bottom: 2.5em;
     white-space: nowrap;
     position: fixed;
@@ -143,7 +145,7 @@ footer {
 
 .custom-menu .pure-menu-link,
 .custom-menu .pure-menu-heading {
-    color: white;
+    color: black;
 }
 
 .pure-menu-list {
@@ -214,7 +216,6 @@ footer {
 }
 
 .custom-menu-screen {
-    background-color: rgba(0, 0, 0, 0.5);
     -webkit-transition: all 0.5s;
     -moz-transition: all 0.5s;
     -ms-transition: all 0.5s;
