@@ -78,7 +78,23 @@
 }
    
 /* END OF SOCIAL MEDIA FOOTER WRAPPER */
-
+#bg {
+  position: fixed; 
+  top: -50%; 
+  left: -50%; 
+  width: 200%; 
+  height: 200%;
+}
+#bg img {
+  position: absolute; 
+  top: 0; 
+  left: 0; 
+  right: 0; 
+  bottom: 0; 
+  margin: auto; 
+  min-width: 50%;
+  min-height: 50%;
+}
 body {
     background-color: #fff;
     color: black;
@@ -108,7 +124,6 @@ a:active {
 }
 
 .main {
-    padding: 2em;
     color: black;
 }
 
@@ -126,7 +141,7 @@ footer {
 }
 
 .custom-menu-wrapper {
-    /*background-color: #111; */
+    /*background-color: rgba(247, 247, 247, 0.3);*/
     color: black;
     margin-bottom: 2.5em;
     white-space: nowrap;
@@ -250,7 +265,6 @@ footer {
     .custom-menu-bottom {
         position: absolute;
         width: 100%;
-        border-top: 1px solid #eee;
         background-color: #808080\9;
         z-index: 100;
     }
